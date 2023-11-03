@@ -50,8 +50,5 @@ Este projeto foi desenvolvido por Ingrid Kemily.
 
 ## Versão
 
-A versão atual deste projeto é 2.0, lançada em Outubro de 2023.
+A versão atual deste projeto é 2.0, lançada em Novembro de 2023.
 
----
-
-Esse README fornece uma visão geral do projeto e instruções básicas sobre como executar os testes. Você pode estender o README conforme necessário, incluindo mais informações sobre como usar a calculadora, exemplos de código e outras funcionalidades.
