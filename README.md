@@ -7,21 +7,21 @@ Este projeto é uma implementação simples de uma calculadora em Java, juntamen
 
 O projeto é organizado da seguinte forma:
 
-- `Calculadora` (interface): Define uma interface que contém as quatro operações matemáticas. Cada operação é definida em classes internas.
-- `Soma`, `Subtracao`, `Multiplicacao`, `Divisao` (classes internas): Implementam as operações matemáticas correspondentes, cada uma fornecendo um método específico para realizar a operação.
+- Calculadora (interface): Define uma interface que contém as quatro operações matemáticas. Cada operação é definida em classes internas.
+- Soma, Subtracao, Multiplicacao, Divisao (classes internas): Implementam as operações matemáticas correspondentes, cada uma fornecendo um método específico para realizar a operação.
 
 ## Funcionalidades
 
 Este projeto oferece as seguintes funcionalidades:
 
-- **Soma**: A classe `Soma` permite realizar a operação de adição de dois números inteiros.
-- **Subtração**: A classe `Subtracao` permite realizar a operação de subtração de dois números inteiros.
-- **Multiplicação**: A classe `Multiplicacao` permite realizar a operação de multiplicação de dois números inteiros.
-- **Divisão**: A classe `Divisao` permite realizar a operação de divisão de dois números inteiros, com tratamento para divisão por zero.
+- **Soma**: A classe Soma permite realizar a operação de adição de dois números inteiros.
+- **Subtração**: A classe Subtracao permite realizar a operação de subtração de dois números inteiros.
+- **Multiplicação**: A classe Multiplicacao permite realizar a operação de multiplicação de dois números inteiros.
+- **Divisão**: A classe Divisao permite realizar a operação de divisão de dois números inteiros, com tratamento para divisão por zero.
 
 ## Testes Unitários
 
-Para garantir a precisão das operações matemáticas, foram criados testes unitários para cada operação. Os testes estão localizados em classes separadas, como `TesteSoma`, `TesteSubtracao`, `TesteMultiplicacao` e `TesteDivisao`.
+Para garantir a precisão das operações matemáticas, foram criados testes unitários para cada operação. Os testes estão localizados em classes separadas, como TesteSoma, TesteSubtracao, TesteMultiplicacao e TesteDivisao.
 
 Cada classe de teste inclui vários cenários para testar diferentes casos, como:
 
@@ -38,7 +38,7 @@ Para executar os testes, siga estas etapas:
 
 1. Certifique-se de que você tenha o ambiente de desenvolvimento Java configurado em seu sistema.
 2. Compile as classes e os testes utilizando seu IDE ou o compilador Java.
-3. Execute as classes de teste (por exemplo, `TesteSoma`, `TesteSubtracao`, `TesteMultiplicacao`, `TesteDivisao`) para verificar o funcionamento das operações matemáticas.
+3. Execute as classes de teste (por exemplo, TesteSoma, TesteSubtracao, TesteMultiplicacao, TesteDivisao) para verificar o funcionamento das operações matemáticas.
 
 ## Contribuição
 
